@@ -1,0 +1,6 @@
+.jumbotron {
+  background-image: url(../img/bootstrap.png);
+  background-size: cover;
+  height: 400px;
+  background-position: center;
+}
